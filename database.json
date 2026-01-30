@@ -1,4 +1,10 @@
 [
-  { "maintenance": true },
-  { "id": "1", "username": "Kernal", "password": "test", "joined": "1/29/2026" }
+  { "maintenance": false },
+  {
+    "id": "1",
+    "username": "Kernal",
+    "password": "yourpassword",
+    "joined": "01/29/2026",
+    "status": "active"
+  }
 ]
