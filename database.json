@@ -1,14 +1,4 @@
 [
-  {
-    "id": "1",
-    "username": "Kernal",
-    "password": "kernal7218",
-    "joined": "01/27/2026"
-  },
-  {
-    "id": "2",
-    "username": "Test",
-    "password": "whatsatestlol",
-    "joined": "01/29/2026"
-  }
+  { "maintenance": true },
+  { "id": "1", "username": "Kernal", "password": "test", "joined": "1/29/2026" }
 ]
